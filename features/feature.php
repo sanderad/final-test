@@ -2,4 +2,6 @@
 
 declare(strict_types=1);
 
-$feature = 'main';
+$featureFrom4 = 'f4';
+
+$newFeature4 = true;
